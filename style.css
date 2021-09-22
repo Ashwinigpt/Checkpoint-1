@@ -50,7 +50,6 @@ table {
 header {
     background-color: rgb(32, 32, 73);
     height: 40px;
-    margin-top: 20px;
 }
 .container { 
     max-width: 1000px;
@@ -172,40 +171,39 @@ button {
     margin-left: 460px;
     margin-top: 15px;
 }
-.second{
-    width: 40%;
-    display: inline;
-}
 .img2 {
-    
     width: 350px;
     height: 250px;
-    display: inline;
     margin-left: 90px;
-    margin-top: 30px;
-
-}
-.img3 {
-    width: 350px;
-    height: 250px;
-    display: inline;
-    vertical-align: top;
-    margin-top: 10px;
-    padding: 20px;    
+    margin-top: 50px;
 }
 h6 {
     margin-left: 90px;
     font-size: 20px;
     font-weight: bold;
     color: rgb(19, 19, 80);
+    margin-top: 10px;
 }
 .left-para {
     margin-left: 90px;
     margin-top: 10px;
     font-size: 15px;
     color: gray;
-    
+    margin-bottom: 10px;
 }
+.learnmore1 {
+    margin-left: 90px;
+    color: rgb(68, 204, 68);
+    font-size: 15px;
+}
+.img3 {
+    width: 350px;
+    height: 250px;
+    margin-left: 465px;
+    margin-top: -500px;    
+}
+
+
 .right-head {
     margin-left: 465px;
     font-size: 20px;
@@ -220,15 +218,10 @@ h6 {
     margin-top: 10px;
     margin-bottom: 15px;
 }
-.learnmore1 {
+
+.learnmore2 {
     margin-left: 465px;
     color: rgb(68, 204, 68);
-    font-size: 18px;
-    padding-bottom: 50px;
-}
-.learnmore2 {
-    margin-left: 90px;
-    color: rgb(68, 204, 68);
-    font-size: 18px;
+    font-size: 15px;
     margin-top: 50px;
 }
